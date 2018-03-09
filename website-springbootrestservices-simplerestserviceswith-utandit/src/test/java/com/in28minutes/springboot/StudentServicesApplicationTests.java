@@ -9,6 +9,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 @SpringBootTest
 public class StudentServicesApplicationTests {
 
+	// Unit Test
 	@Test
 	public void contextLoads() {
 	}
